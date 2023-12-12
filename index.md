@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: Welcome to YuKuai's blog
 ---
+## CONTENT
+- About Me
+- My interests
+- Research & Projects
 
